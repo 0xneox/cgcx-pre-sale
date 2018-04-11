@@ -9,7 +9,9 @@ Smartcontract for cgcx pre-sale
 ##Requirements for setting up environment 
 
  > Node.js 8.0+ 
+ 
  > Truffle 4.0+
+ 
  > npm 4.0+
  
  
